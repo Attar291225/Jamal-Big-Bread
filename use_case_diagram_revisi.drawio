@@ -1,0 +1,226 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Use Case Diagram" id="Use_Case_Diagram">
+    <mxGraphModel dx="1400" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="950" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c1" value="Sistem Pemesanan Roti JBB - Modul Pelanggan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontStyle=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="590" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" value="Pelanggan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="50" y="442" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" value="Registrasi Akun" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" value="Login Pelanggan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="192" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" value="Lihat Daftar Produk" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="264" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" value="Lihat Detail Produk" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="336" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" value="Kelola Keranjang" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="408" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" value="Buat Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" value="Lihat Detail Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="552" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" value="Lihat Status Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="624" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c11" value="Lihat Profil" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="696" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c12" value="Logout" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="768" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c2" target="c12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c23" value="Tambah Produk ke Keranjang" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="264" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c24" value="«extend»" style="endArrow=open;endSize=10;dashed=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" edge="1" parent="1" source="c23" target="c7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c25" value="Ubah Jumlah Produk" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="336" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c26" value="«extend»" style="endArrow=open;endSize=10;dashed=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" edge="1" parent="1" source="c25" target="c7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c27" value="Hapus Produk dari Keranjang" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="408" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c28" value="«extend»" style="endArrow=open;endSize=10;dashed=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" edge="1" parent="1" source="c27" target="c7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c29" value="Hitung Total Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c30" value="«include»" style="endArrow=open;endSize=10;dashed=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" edge="1" parent="1" source="c8" target="c29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c31" value="Simpan Data Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="552" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c32" value="«include»" style="endArrow=open;endSize=10;dashed=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" edge="1" parent="1" source="c8" target="c31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c33" value="Tampilkan Konfirmasi Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="624" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c34" value="«include»" style="endArrow=open;endSize=10;dashed=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" edge="1" parent="1" source="c8" target="c33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c35" value="Sistem Pemesanan Roti JBB - Modul Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontStyle=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="830" y="60" width="550" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="c36" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="750" y="406" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c37" value="Login Admin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="120" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c38" value="Lihat Data Produk" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="192" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c39" value="Tambah Produk" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="264" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c40" value="Ubah Produk" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="336" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c41" value="Hapus Produk" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="408" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c42" value="Lihat Data Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="480" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c43" value="Lihat Detail Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="552" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c44" value="Ubah Status Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="624" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c45" value="Logout" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="860" y="696" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c36" target="c37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c36" target="c38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c36" target="c39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c36" target="c40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c36" target="c41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c36" target="c42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c36" target="c43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c36" target="c44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c36" target="c45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c55" value="Konfirmasi Penghapusan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="408" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c56" value="«include»" style="endArrow=open;endSize=10;dashed=1;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" edge="1" parent="1" source="c41" target="c55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c57" value="Modul Owner" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontStyle=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="60" width="270" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="c58" value="Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="334" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c59" value="Login Owner" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="120" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c60" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c58" target="c59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c61" value="Lihat Dashboard Owner" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="192" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c58" target="c61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c63" value="Lihat Data Penjualan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="264" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c58" target="c63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65" value="Lihat Ringkasan Pendapatan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="336" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c58" target="c65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c67" value="Lihat Data Pesanan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="408" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c58" target="c67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c69" value="Lihat Laporan Transaksi" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="480" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c58" target="c69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c71" value="Lihat Informasi Produk" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="552" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="c58" target="c71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
